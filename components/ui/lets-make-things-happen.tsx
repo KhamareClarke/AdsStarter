@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function LetsMakeThingsHappenSection() {
   return (
     <div className="rounded-2xl bg-[#181C22] px-6 py-16 md:py-24 shadow-xl border border-[#232c3b] flex flex-col items-center text-center">
-      <h2 className="text-4xl md:text-6xl font-extrabold gradient-text mb-6 drop-shadow-lg">Let's make things happen</h2>
+      <h2 className="text-4xl md:text-6xl font-extrabold gradient-text mb-6 drop-shadow-lg">Let&apos;s make things happen</h2>
       <p className="text-lg md:text-2xl text-white/80 mb-10 max-w-2xl font-medium">
         Contact us today to learn more about how our digital marketing services can help your business grow and succeed online.
       </p>
