@@ -283,7 +283,7 @@ export default function Home() {
         <li>📊 Monthly Performance Report</li>
         <li>⚡ Designed for startups ready to break through</li>
       </ul>
-      <button className="mt-auto py-2 px-6 rounded-lg font-bold bg-gradient-to-r from-blue-500 to-cyan-400 text-white hover:from-blue-700 hover:to-cyan-600 transition-all transition-link">Start My Launch</button>
+      <a href="https://calendly.com/khamareclarke/new-meeting" target="_blank" rel="noopener noreferrer" className="mt-auto py-2 px-6 rounded-lg font-bold bg-gradient-to-r from-blue-500 to-cyan-400 text-white hover:from-blue-700 hover:to-cyan-600 transition-all transition-link inline-block text-center">Start My Launch</a>
     </div>
     {/* Growth Plan */}
     <div className="flex flex-col items-center text-center bg-gradient-to-br from-blue-500 to-cyan-400 rounded-xl shadow-lg p-4 border-2 border-blue-400 card-hover">
@@ -298,7 +298,7 @@ export default function Home() {
         <li>✅ A/B Testing for Conversions</li>
         <li>⚡ Built for businesses ready to scale hard</li>
       </ul>
-      <button className="mt-auto py-2 px-6 rounded-lg font-bold bg-white text-blue-700 border-2 border-blue-400 hover:bg-blue-100 transition-all">Scale My Business</button>
+      <a href="https://calendly.com/khamareclarke/new-meeting" target="_blank" rel="noopener noreferrer" className="mt-auto py-2 px-6 rounded-lg font-bold bg-white text-blue-700 border-2 border-blue-400 hover:bg-blue-100 transition-all inline-block text-center">Scale My Business</a>
     </div>
     {/* Empire Plan */}
     <div className="flex flex-col items-center text-center bg-[#232c3b] rounded-xl shadow-lg p-4 border border-[#232c3b]">
@@ -315,7 +315,7 @@ export default function Home() {
         <li>🔥 Priority Support – skip the queue, instant fixes</li>
         <li>💰 ROI Guarantee: If we don’t deliver growth, your next month is FREE*</li>
       </ul>
-      <button className="mt-auto py-2 px-6 rounded-lg font-bold bg-gradient-to-r from-yellow-400 to-yellow-600 text-black hover:from-yellow-500 hover:to-yellow-700 transition-all">Launch My Empire</button>
+      <a href="https://calendly.com/khamareclarke/new-meeting" target="_blank" rel="noopener noreferrer" className="mt-auto py-2 px-6 rounded-lg font-bold bg-gradient-to-r from-yellow-400 to-yellow-600 text-black hover:from-yellow-500 hover:to-yellow-700 transition-all inline-block text-center">Launch My Empire</a>
     </div>
   </div>
 </section>
